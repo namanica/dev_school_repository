@@ -11,3 +11,11 @@ a little talk about me
 **This year** _brought a lot of interesting changes in my life._ 
 
 _Obviously I am talking about my_ **university** _and people surrounding me now._
+
+Here is the list of my favourite emoji:
++ :blush: only to express positivity
++ :heart_eyes: for smth I extremely liked
++ :no_mouth: when I have nothing to say
++ :neutral_face: when I am confused
++ :pensive: when i am frustrated 
++ :nail_care: do I need to say anything? SLAY
