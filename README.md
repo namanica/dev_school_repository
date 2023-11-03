@@ -8,6 +8,6 @@ a little talk about me
 
 *My name is* **Veronica** *and I am **17** years old*
 
-_This year brought a lot of interesting changes in my life._ 
+**This year** _brought a lot of interesting changes in my life._ 
 
-_Obviously I am talking about my university and people surrounding me now._
+_Obviously I am talking about my_ **university** _and people surrounding me now._
