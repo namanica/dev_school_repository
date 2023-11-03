@@ -4,7 +4,7 @@ a little talk about me
 ----------------------
 ~~sometimes it is hard to talk about yourself~~
 
-*but i will try to, forgetting about all insecurities*
+***but i will try to, forgetting about all insecurities***
 
 *My name is* **Veronica** *and I am **17** years old*
 
